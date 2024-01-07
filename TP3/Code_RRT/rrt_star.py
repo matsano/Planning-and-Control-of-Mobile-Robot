@@ -204,7 +204,7 @@ def get_path_length(path):
 def main():
     x_start = (2, 2)  # Starting node
     x_goal = (49, 24)  # Goal node
-    environment = env.Env()
+    environment = env.Env2()
 
     rrt_star = RrtStar(environment, x_start, x_goal, 2, 0.10, 20, 1500)
     path, nb_iter = rrt_star.planning()
