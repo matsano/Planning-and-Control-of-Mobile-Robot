@@ -75,7 +75,7 @@ class Rrt:
         delta = self.utils.delta
         
         # Percentage of points sampled using a simple variant of the OBRRT
-        percentage_strategy = 0
+        percentage_strategy = 0.3
         if np.random.random() <= percentage_strategy:
             new_node_generated = False
             while not new_node_generated:
