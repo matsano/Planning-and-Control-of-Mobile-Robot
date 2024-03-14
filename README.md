@@ -1,5 +1,5 @@
 # Planning-and-Control-of-Mobile-Robot
-Planning and Control Course (ROB316)
+Planning and Control Course
 
 ## 📋 Description
 TPs code implemented during the course:
