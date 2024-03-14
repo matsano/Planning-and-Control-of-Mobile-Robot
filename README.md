@@ -1,5 +1,5 @@
 # Planning-and-Control-of-Mobile-Robot
-Planning and Control Course
+Planning and Control of Mobile Robot Course
 
 ## 📋 Description
 TPs code implemented during the course:
@@ -19,4 +19,4 @@ These projects were implemented in MATLAB and Python.
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
-I would like to thank our professors Mr. David Filliat and Mr. Julien Alexandre dit Sandretto for the knowledge taught in ROB317 Course at [ENSTA Paris](https://www.ensta-paris.fr/).
+I would like to thank our professors Mr. David Filliat and Mr. Julien Alexandre dit Sandretto for the knowledge taught in course at [ENSTA Paris](https://www.ensta-paris.fr/).
